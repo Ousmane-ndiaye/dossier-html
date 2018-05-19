@@ -1,0 +1,8 @@
+
+LA RECHERCHE
+
+un client peut trouver une salle par le moteur de recherche avancé,par là on aimerait lui donner la possibilité de rechercher selon les critères suivants:
+1. selon la localisation(ville,département,adresse,quartier)
+2. selon le type d'événement (les salles(salle séminaire,co-working,...)
+3. selon le nombre de participants
+
